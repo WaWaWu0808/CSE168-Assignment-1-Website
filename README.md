@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <td><img src="./add_on_scenes/softshadow-original.png" width=300 height=225></td>
-    <td><img src="./add_on_scenes/softshadow-applied.png" width=00 height=225></td>
+    <td><img src="./add_on_scenes/softshadow-applied.png" width=300 height=225></td>
   </tr>
  </table>
 
