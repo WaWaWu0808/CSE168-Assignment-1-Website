@@ -7,8 +7,8 @@
      <td>with softshadow</td>
   </tr>
   <tr>
-    <td><img src="./add_on_scenes/softshadow-original.png" width=200 height=150></td>
-    <td><img src="./add_on_scenes/softshadow-applied.png" width=200 height=150></td>
+    <td><img src="./add_on_scenes/softshadow-original.png" width=300 height=225></td>
+    <td><img src="./add_on_scenes/softshadow-applied.png" width=00 height=225></td>
   </tr>
  </table>
 
@@ -20,7 +20,7 @@
      <td>with antialiasing</td>
   </tr>
   <tr>
-    <td><img src="./add_on_scenes/antialiasing-original.png" width=200 height=150></td>
-    <td><img src="./add_on_scenes/antialiasing-applied.png" width=200 height=150></td>
+    <td><img src="./add_on_scenes/antialiasing-original.png" width=300 height=225></td>
+    <td><img src="./add_on_scenes/antialiasing-applied.png" width=300 height=225></td>
   </tr>
  </table>
